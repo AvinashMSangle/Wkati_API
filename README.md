@@ -1,1 +1,8 @@
-# Wkati_API
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
