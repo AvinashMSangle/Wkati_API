@@ -1,7 +1,7 @@
 name = "wkati_api"
 main = "src/index.ts"
 compatibility_date = "2025-01-08"
-assets ={ directory = "public"}
+assets = { directory = "public" }
 
 # compatibility_flags = [ "nodejs_compat" ]
 

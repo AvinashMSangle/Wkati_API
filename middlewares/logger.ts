@@ -1,7 +1,7 @@
-import {pinoLogger} from 'hono-pino'
+import { pinoLogger } from 'hono-pino'
 
 export const logger = pinoLogger({
-  http:{
-    reqId:()=>crypto.randomUUID(),
-  }
+  http: {
+    reqId: () => crypto.randomUUID(),
+  },
 })
