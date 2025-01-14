@@ -12,6 +12,7 @@
     "@scalar/hono-api-reference": "^0.5.165",
     "hono": "^4.6.16",
     "hono-pino": "^0.7.0",
+    "readability-scores": "^1.0.8",
     "stoker": "^1.4.2"
   },
   "devDependencies": {
